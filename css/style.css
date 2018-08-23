@@ -1,0 +1,33 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+body {
+	background: #cee3d3;
+}
+
+.top, .center {
+	width: 300px;
+	margin: 50px auto;
+}
+
+.name_1, .name_3 {
+	width: 254px;
+	font-family: verdana;
+}
+
+.name_2, .name_4 {
+	width: 290px;
+	overflow: scroll;
+	margin-top: 40px;
+	height: 100px;
+	padding: 5px;
+	border: 1px solid #cccccc;
+	background: #fff;
+	font-family: verdana;
+}
+
+#text_p {
+	display: none;
+}
